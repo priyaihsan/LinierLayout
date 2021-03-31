@@ -3,4 +3,11 @@
     <string name="tEmail">Email</string>
     <string name="tPassword">Password</string>
     <string name="bsignin">Sign-In</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="detailKontak">Detail kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telepon</string>
 </resources>
